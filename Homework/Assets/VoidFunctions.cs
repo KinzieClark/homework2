@@ -19,9 +19,9 @@ public class VoidFunctions : MonoBehaviour {
 //		print("How is the weather?");
 //	}
 
-	void Start () {
-		print("Here's a fun fact about void functions:");
-	}
+//	void Start () {
+//		print("Here's a fun fact about void functions:");
+//	}
 
 //	void Start () {
 //		print("A void returns no value");
@@ -38,4 +38,12 @@ public class VoidFunctions : MonoBehaviour {
 //	void Start () {
 //		print("If you want to get more detailed, try a different function");
 //	}
+
+//	void Start () {
+//		print("You could try something like int Start () for more detailed returns");
+//	}
+
+	void Start () {
+		print("But, if you just want to print something upon Start, a void function is plenty.");
+	}
 }
