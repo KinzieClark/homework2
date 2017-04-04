@@ -38,10 +38,24 @@ public class ForLoop : MonoBehaviour {
 //			}
 //	}	
 
+//	void Start () {
+//		for (; number < 84;)
+//			{
+//				print(number +=10);
+//			}
+//	}
+
+//	void Start () {
+//		for (int x = 0; x < 24; x += 3)
+//		{
+//			print(x);
+//		}
+//	}
+
 	void Start () {
-		for (; number < 84;)
-			{
-				print(number +=10);
-			}
+		for (int x = 0; x <= 10; number += 1)
+		{
+			print(x);
+		}
 	}	
 }
