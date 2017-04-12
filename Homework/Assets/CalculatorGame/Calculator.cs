@@ -31,7 +31,34 @@ public class Calculator : MonoBehaviour {
 		print(number);
 		result.text = number.ToString();
 	}
-	public void OnButtonClick () {
-		print(Button.text);
+	public void Button0 () {
+		print(0);
 }
+	public void Button1 () {
+		print(1);
+	}
+	public void Button2 () {
+		print(2);
+	}
+	public void Button3 () {
+		print(3);
+	}
+	public void Button4 () {
+		print(4);
+	}
+	public void Button5 () {
+		print(5);
+	}
+	public void Button6 () {
+		print(6);
+	}
+	public void Button7 () {
+		print(7);
+	}
+	public void Button8 () {
+		print(8);
+	}
+	public void Button9 () {
+		print(9);
+	}
 }
