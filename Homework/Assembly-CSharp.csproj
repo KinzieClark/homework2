@@ -49,7 +49,7 @@
      <Compile Include="Assets\CalculatorGame\Calculator.cs" />
      <Compile Include="Assets\CalculatorGame\Calculator2.cs" />
      <Compile Include="Assets\ForLoops\ForLoop.cs" />
-     <Compile Include="Assets\FunctionswithParameters\FunctionswithParameters.cs" />
+     <Compile Include="Assets\ReturnandParameter\FunctionswithParameters.cs" />
      <Compile Include="Assets\VoidFunctions\NewBehaviourScript.cs" />
      <Compile Include="Assets\VoidFunctions\VoidFunctions.cs" />
  <Reference Include="UnityEngine.Analytics">
